@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammet Umut Kaya</h1>
 <h3 align="center">I am a determined ambitious hardworking patient person. I want to improve myself by not repeating myself day by day by progressing in this field.frontend developer</h3>
 
-- 🌱 I’m currently learning **Bootstrap,javascript**
+- 🌱 I’m currently learning **BootsraoJavascript**
 
 - You can contact me **umutkaya199@gmail.com**
+
+- ⚡ **hard working planned ambitious and determined**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
