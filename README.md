@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayide&label=Profile%20views&color=0e75b6&style=flat" alt="bayide" /> </p>
 
-- 🌱 I’m currently learning **Bootsrap,javascript,python**
+- 🌱 I’m currently learning **Java,python**
 
 - How to reach me: **umutkaya199@gmail.com**
 
